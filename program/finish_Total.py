@@ -1,4 +1,4 @@
-#this is to change the dir, and confirm that the program could be working under different OS.
+#this again is to change the dir, and confirm that the program could be working under different OS.
 import os
 import sys
 current_path = os.getcwd()                              #get current dir
